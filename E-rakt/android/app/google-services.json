@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "812039297684",
+    "firebase_url": "https://e-rakt-default-rtdb.firebaseio.com",
+    "project_id": "e-rakt",
+    "storage_bucket": "e-rakt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812039297684:android:dd7f6f37efa62e0a637281",
+        "android_client_info": {
+          "package_name": "com.example.codebreak_e_rakta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812039297684-jcbes513lnkmm7mfgesm6e5jegke950r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.codebreak_e_rakta",
+            "certificate_hash": "ffdfb25a899529179ac1ac739d599f9cbf9733d2"
+          }
+        },
+        {
+          "client_id": "812039297684-tom5b4cr26149grrflvuk227qqf41r63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU9l5XXX-OjnXiyKYArooV0mZ6kNRBdLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812039297684-tom5b4cr26149grrflvuk227qqf41r63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
